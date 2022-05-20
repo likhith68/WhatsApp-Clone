@@ -1,5 +1,5 @@
 # WhatsApp-Clone using React JS and Firebase
-It is almost identical to WhatsApp Web but only group chat can be done. For Login, Google Authentication is Used.Firebase Database is used for the Database and the App is Deployed Using Firebase as well. 
+It is identical to WhatsApp Web but only group chat feature is only available. For Login, Google Authentication is Used.Firebase Firestore Database is used for the Database and the App is Deployed Using Firebase as well. 
 
 ## Deployed this Project :)
 Check it out==>
